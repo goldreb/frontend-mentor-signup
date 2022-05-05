@@ -56,7 +56,7 @@ When javascript recieves no input then the error will show.
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
--Javascript
+- Javascript
 
 ### What I learned
 
